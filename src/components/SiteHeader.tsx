@@ -23,6 +23,9 @@ export default function SiteHeader() {
         <Link href="/about" className="transition-opacity hover:opacity-60">
           About
         </Link>
+        <Link href="/why" className="transition-opacity hover:opacity-60">
+          Why Nosta
+        </Link>
       </nav>
     </header>
   );
